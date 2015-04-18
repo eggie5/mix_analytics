@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/mix_analytics.rb",
+    "mix_analytics.gemspec",
     "spec/mix_analytics_spec.rb",
     "spec/spec_helper.rb"
   ]
