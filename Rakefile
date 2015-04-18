@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "mix_analytics"
   gem.homepage = "http://github.com/eggie5/mix_analytics"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Redis-based app analytics"
+  gem.description = "Redis-based app analytics"
   gem.email = "eggie5@gmail.com"
   gem.authors = ["Alex Egg"]
   # dependencies defined in Gemfile
